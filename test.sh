@@ -1,0 +1,17 @@
+#python test.py 02
+#python test.py 04
+#python test.py 06
+#python test.py 08
+python test.py 10
+#python test.py 11
+#python test.py 15
+python test.py 21
+python test.py 22
+#python test.py 23
+python test.py 24
+#python test.py 39
+#python test.py 52
+#python test.py 59
+#python test.py 62
+#python test.py 63
+#python test.py 72
